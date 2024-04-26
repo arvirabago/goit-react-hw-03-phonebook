@@ -12,14 +12,14 @@
 
 .input {
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #E5E9EC;
   border-radius: 5px;
   max-width: 600px;
 }
 
 .customPhoneInput {
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #E5E9EC;
   border-radius: 5px;
   max-width: 600px;
 }
@@ -29,8 +29,8 @@
 }
 
 .button {
-  background-color: #380534;
-  color: #fff;
+  background-color: #7C616C;
+  color: #EAFDF8;
   padding: 10px;
   border: none;
   border-radius: 5px;
@@ -38,5 +38,5 @@
 }
 
 .button:hover {
-  background-color: #d4428d;
+  background-color: #D1B1CB;
 }
