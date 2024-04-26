@@ -51,7 +51,7 @@ export class ContactForm extends Component {
           placeholder="Enter phone number"
           value={this.state.number}
           onChange={this.handleChange}
-          defaultCountry="UA"
+          defaultCountry="PH"
           className={css.customPhoneInput}
           limitMaxLength
         />
